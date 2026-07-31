@@ -1,7 +1,7 @@
 𝑯𝒊, 𝑰'𝒎 𝑽𝒂𝒓𝒔𝒉𝒂 👋
 
 B.Tech Data Science Student
-"Data Analytics" · "Web Development" · "Application Development"
+Data Analytics · Web Development · Application Development
 
 «Building. Analyzing. Learning. Growing.»
 
@@ -49,8 +49,8 @@ An analytical project exploring IPL data to identify trends, patterns, and insig
 
 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝗘𝘅𝗽𝗹𝗼𝗿𝗶𝗻𝗴
 
-"Python for Data Analysis" · "Advanced SQL"
-"Machine Learning" · "Application Development"
+Python for Data Analysis · Advanced SQL
+Machine Learning · Application Development
 
 ---
 
