@@ -65,7 +65,7 @@ I'm interested in opportunities across Data Analytics, Data Science, Web Develop
 
 📈 GitHub Stats
 
-"Varsha's GitHub stats" (https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
+"Varsha's GitHub stats" (https://github-readme-stats.vercel.app/api?username=varshaa66&show_icons=true&theme=default)
 
 ---
 
