@@ -1,6 +1,6 @@
 𝑯𝒊, 𝑰'𝒎 𝑽𝒂𝒓𝒔𝒉𝒂 👋
 
-B.Tech Data Science Student
+B.Tech Data Science Student 
 Data Analytics · Web Development · Application Development
 
 Building. Analyzing. Learning. Growing.
