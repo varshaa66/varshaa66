@@ -3,7 +3,7 @@
 B.Tech Data Science Student
 Data Analytics · Web Development · Application Development
 
-«Building. Analyzing. Learning. Growing.»
+Building. Analyzing. Learning. Growing.
 
 ---
 
