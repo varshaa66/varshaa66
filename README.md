@@ -1,67 +1,97 @@
-𝑯𝒊, 𝑰'𝒎 𝑽𝒂𝒓𝒔𝒉𝒂 👋
+Hi, I'm Varsha 👋
 
-B.Tech Data Science Student 
-Data Analytics · Web Development · Application Development
+🎓 B.Tech Data Science Student 
+· 📊 Data & Analytics · 💻 Web & Application Development
 
-Building. Analyzing. Learning. Growing.
+«Turning ideas into practical solutions through data, technology, and continuous learning.»
 
----
+I'm a B.Tech Data Science student with a growing interest in Data Analytics, Data Science, Web Development, and Application Development. I enjoy building practical projects, exploring new technologies, and using what I learn to create useful, user-focused solutions.
 
-𝗔𝗯𝗼𝘂𝘁 𝗠𝗲
-
-I'm a Data Science student with an interest in data, technology, and software development.
-
-I enjoy working with data, creating websites and applications, and turning ideas into practical, user-friendly solutions through hands-on projects.
+I'm always looking for opportunities to learn, build, collaborate, and grow through real-world projects.
 
 ---
 
-𝗧𝗲𝗰𝗵 𝗦𝗸𝗶𝗹𝗹𝘀
+🧠 Skills & Technologies
 
-Data & Analytics
+📊 Data & Analytics
 SQL · Excel · Data Analysis · Data Visualization · Data Modeling
 
-Web Development
+🌐 Web Development
 HTML · CSS · JavaScript
 
-Application Development
+📱 Application Development
 Application Development · UI Design
 
-Tools
+🛠️ Tools & Platforms
 Git · GitHub · VS Code
 
 ---
 
-𝗙𝗲𝗮𝘁𝘂𝗿𝗲𝗱 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀
+🚀 Featured Projects
 
 🌿 Serene
-A clean and user-friendly website project focused on creating a simple digital experience.
 
-📰 TruthGuard AI
-An AI-based web project focused on identifying potentially misleading information.
+A clean and user-friendly web project focused on creating a simple and engaging digital experience.
+
+Tech: HTML · CSS · JavaScript
+
+🛡️ TruthGuard AI
+
+An AI-focused web project designed around identifying potentially misleading or fake information.
+
+Focus: AI · Web Development · Data
 
 🍔 Mr. Crispy
-A responsive website created for a local business with a simple and engaging interface.
+
+A responsive local-business website designed with a simple interface and user-friendly experience.
+
+Tech: HTML · CSS · JavaScript
 
 📊 IPL Data Analysis
-An analytical project exploring IPL data to identify trends, patterns, and insights through visualization.
+
+A data analytics project exploring IPL data to identify trends, patterns, and insights through data visualization.
+
+Focus: Data Analysis · Data Visualization
 
 ---
 
-𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝗘𝘅𝗽𝗹𝗼𝗿𝗶𝗻𝗴
+🌱 Currently Exploring
 
-Python for Data Analysis · Advanced SQL
-Machine Learning · Application Development
-
----
-
-𝗖𝗮𝗿𝗲𝗲𝗿 𝗜𝗻𝘁𝗲𝗿𝗲𝘀𝘁𝘀
-
-I'm interested in opportunities across Data Analytics, Data Science, Web Development, and Application Development.
-
-I'm looking forward to building real-world solutions, contributing to meaningful projects, and growing as a technology professional.
+🐍 Python for Data Analysis
+🗄️ Advanced SQL
+🤖 Machine Learning
+📱 Application Development
 
 ---
 
-𝑻𝒉𝒂𝒏𝒌𝒔 𝒇𝒐𝒓 𝒗𝒊𝒔𝒊𝒕𝒊𝒏𝒈! ⭐
+🎯 Career Interests
 
-Learn · Build · Analyze · Grow
+I'm interested in opportunities across:
+
+Data Analytics · Data Science · Web Development · Application Development
+
+I'm eager to apply my skills to real-world problems, contribute to meaningful projects, learn from experienced professionals, and grow as a technology professional.
+
+---
+
+📌 What You'll Find Here
+
+🔹 Data analysis & visualization projects
+🔹 Web development projects
+🔹 Application development projects
+🔹 Academic & personal projects
+🔹 Experiments and things I'm learning
+
+---
+
+🤝 Let's Connect
+
+I'm always open to learning, collaboration, internships, and interesting projects.
+
+⭐ Explore my repositories and see what I'm building!
+
+---
+
+✨ Learn · Build · Analyze · Grow
+
+Thanks for visiting my profile! 👋
